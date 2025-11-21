@@ -81,6 +81,12 @@ db_root_password: #database root password
 ## Handlers Included
 - Restart/Reload Nginx
 
+## Notes:
+
+- Don't Forget to modify the variables in your defaults/main.yml.
+- Only use PHP Applications (any other framework should be handled manually).
+- Sample PHP Repo : https://github.com/ekramasif/Inventory_Management_System.git
+
 ## License
 MIT License
 
